@@ -1,10 +1,6 @@
 # Infografis: Air Bersih untuk Kesehatan Tubuh
 
-Mengapa tubuh membutuhkan air bersih, bagaimana kondisi akses air minum layak di Indonesia, dan apa yang sedang dilakukan untuk memperbaikinya.
-
-![Infografis Air Bersih untuk Kesehatan Tubuh](images/infografis-air-bersih.png)
-
-📄 [Unduh versi PDF](docs/INFOGRAFIS_LITERASI_DIGITAL.pdf)
+Mengapa tubuh membutuhkan air bersih? Bagaimana kondisi akses air minum layak di Indonesia? dan Apa yang sedang dilakukan untuk memperbaikinya???
 
 ## Ringkasan
 
@@ -70,19 +66,3 @@ Minum air minimal **8 gelas per hari**, misalnya setiap 2 jam:
 - National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
 - World Health Organization (WHO)
 - p2ptm.kemkes.go.id
-
-## Catatan
-
-- Data pada infografis bersumber dari publikasi sekunder dan bersifat deskriptif.
-- Informasi kesehatan bersifat umum dan bukan pengganti saran tenaga medis.
-
-## Struktur Repository
-
-```
-infografis-air-bersih-kesehatan-tubuh/
-├── images/
-│   └── infografis-air-bersih.png
-├── docs/
-│   └── INFOGRAFIS_LITERASI_DIGITAL.pdf
-└── README.md
-```
